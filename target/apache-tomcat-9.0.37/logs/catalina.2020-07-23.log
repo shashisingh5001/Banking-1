@@ -1,0 +1,62 @@
+23-Jul-2020 11:57:54.025 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.37
+23-Jul-2020 11:57:54.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 20:09:49 UTC
+23-Jul-2020 11:57:54.078 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.37.0
+23-Jul-2020 11:57:54.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+23-Jul-2020 11:57:54.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+23-Jul-2020 11:57:54.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Jul-2020 11:57:54.079 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_112\jre
+23-Jul-2020 11:57:54.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_112-b15
+23-Jul-2020 11:57:54.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Jul-2020 11:57:54.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\apache-tomcat-9.0.37
+23-Jul-2020 11:57:54.080 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         F:\apache-tomcat-9.0.37
+23-Jul-2020 11:57:54.120 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:/apache-tomcat-9.0.37/conf/logging.properties
+23-Jul-2020 11:57:54.120 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Jul-2020 11:57:54.120 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+23-Jul-2020 11:57:54.121 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+23-Jul-2020 11:57:54.121 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+23-Jul-2020 11:57:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+23-Jul-2020 11:57:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:/apache-tomcat-9.0.37
+23-Jul-2020 11:57:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=F:/apache-tomcat-9.0.37
+23-Jul-2020 11:57:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:/apache-tomcat-9.0.37/temp
+23-Jul-2020 11:57:54.175 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_112\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Shashi Shankar Singh\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Shashi Shankar Singh\bin;C:\Program Files\Java\jre1.8.0_112\bin\server;C:\Program Files\Java\jre1.8.0_112\bin;C:\Program Files\Java\jre1.8.0_112\lib\amd64;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Java\jdk1.8.0_112\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\nodejs;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\Shashi Shankar Singh\AppData\Local\Microsoft\WindowsApps;C:\Users\Shashi Shankar Singh\AppData\Roaming\npm;C:\Users\Shashi Shankar Singh\AppData\Roaming\npm\node_modules\@angular\cli\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.2\bin;C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2019.3.1\bin;C:\Users\Shashi Shankar Singh\Downloads\sts-bundle\sts-3.9.11.RELEASE;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.]
+23-Jul-2020 11:57:56.636 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+23-Jul-2020 11:57:57.287 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [4125] milliseconds
+23-Jul-2020 11:57:57.467 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+23-Jul-2020 11:57:57.467 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.37]
+23-Jul-2020 11:57:57.613 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [F:\apache-tomcat-9.0.37\webapps\mobile-app-sw.war]
+23-Jul-2020 11:58:16.830 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+23-Jul-2020 11:59:12.743 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [F:\apache-tomcat-9.0.37\webapps\mobile-app-sw.war] has finished in [75,129] ms
+23-Jul-2020 11:59:12.745 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.37\webapps\docs]
+23-Jul-2020 11:59:12.897 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.37\webapps\docs] has finished in [152] ms
+23-Jul-2020 11:59:12.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.37\webapps\examples]
+23-Jul-2020 11:59:16.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.37\webapps\examples] has finished in [3,210] ms
+23-Jul-2020 11:59:16.109 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.37\webapps\host-manager]
+23-Jul-2020 11:59:16.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.37\webapps\host-manager] has finished in [293] ms
+23-Jul-2020 11:59:16.403 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.37\webapps\manager]
+23-Jul-2020 11:59:16.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.37\webapps\manager] has finished in [414] ms
+23-Jul-2020 11:59:16.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [F:\apache-tomcat-9.0.37\webapps\ROOT]
+23-Jul-2020 11:59:16.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [F:\apache-tomcat-9.0.37\webapps\ROOT] has finished in [106] ms
+23-Jul-2020 11:59:16.967 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-Jul-2020 11:59:17.052 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [79764] milliseconds
+23-Jul-2020 12:55:32.999 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+23-Jul-2020 12:55:33.176 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+23-Jul-2020 12:55:33.806 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+23-Jul-2020 12:55:35.159 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [mobile-app-sw] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+23-Jul-2020 12:55:35.188 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [mobile-app-sw] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:85)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+ java.lang.Thread.run(Thread.java:745)
+23-Jul-2020 12:55:35.459 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+23-Jul-2020 12:55:35.573 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1385)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1038)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:117)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:84)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+		at java.lang.Thread.run(Thread.java:745)
+23-Jul-2020 12:55:35.588 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
